@@ -65,7 +65,7 @@ body {
 }
 
 div.container{
-  min-height: 75%;
+  min-height: 65vh;
   width: 100%;
   max-width: none;
   margin: 0;
@@ -117,11 +117,11 @@ h2 {
   margin: 0;
   width: 100%;
   top: 65px;
-  height: 75vh;
+  height: 65vh;
 }
 
 .carousel-inner .item .carousel-text {
-  height: 7vh;
+  height: 65vh;
   position: absolute;
   top: 65px;
   right: 0px;
@@ -142,7 +142,7 @@ h2 {
 
 
 .carousel-inner .item .carousel-image {
-  height: 75vh;
+  height: 65vh;
   width: 60%;
   padding: 0 0px;
   display: inline-block;
