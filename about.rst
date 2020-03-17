@@ -4,17 +4,17 @@
 About
 ======
 
-In memory of John Hunter, we are pleased to announce the SciPy John Hunter
+In memory of John Hunter, we are pleased to announce the John Hunter
 Excellence in Plotting Contest for 2020. This open competition aims to
 highlight the importance of data visualization to scientific progress and
 showcase the capabilities of open source software.
 
 Participants are invited to submit scientific plots to be judged by a panel.
-The winning entries will be announced and displayed at the conference or
+The winning entries will be announced and displayed at SciPy 2020 or
 announced in the John Hunter Excellence in Plotting Contest website and
 youtube channel.
 
-John Hunter's family and NumFocus are graciously sponsoring cash prizes for
+John Hunter's family are graciously sponsoring cash prizes for
 the winners in the following amounts:
 
 - 1st prize: $1000
@@ -58,6 +58,4 @@ Additional information
 
 Questions regarding the contest can be sent to jhepc.organizers@gmail.com
 
-John Hunter Excellence in Plotting Contest Co-Chairs
-Madicken Munk
-Nelle Varoquaux
+John Hunter Excellence in Plotting Contest Co-Chairs, Madicken Munk and Nelle Varoquaux
